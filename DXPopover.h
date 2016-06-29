@@ -151,4 +151,6 @@ typedef NS_ENUM(NSUInteger, DXPopoverMaskType) {
 
 - (void)dismiss;
 
+- (void)show;
+
 @end
